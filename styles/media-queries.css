@@ -48,6 +48,10 @@
     .footer {
         height: 100%;
     }
+  
+    .footer > .links-wrapper {
+        width: 100%;
+    }
 
     .skewed-header > .skewed-header-wrapper > .skewed-header-content {
         flex-direction: column;
