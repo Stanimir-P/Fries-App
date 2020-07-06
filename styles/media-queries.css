@@ -2,6 +2,7 @@
     .navigation-wrapper {
         flex-direction: column;
         height: 100%;
+        padding: 60px 20px;
     }
 
     .navigation-wrapper > .left-column {
