@@ -60,6 +60,8 @@
 
     .skewed-header > .header-bg {
         width: 100%;
+        background-size: 170%;
+        background-position: center;
     }
 
     .page-container {
