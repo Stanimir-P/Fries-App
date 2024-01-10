@@ -19,4 +19,4 @@ Fries web app was built using the following technologies:
 
 ## Deployment
 
-[Fries Web Application](https://stanimir-p.github.io/Snake-React/)
+[Fries Web Application](https://stanimir-p.github.io/Fries-App/)
